@@ -15,9 +15,9 @@
     max-width: 650px;
     margin: auto;
     background-color: #9bc8d8;
-    border-radius: 30px; /* Increased border radius */
+    border-radius: 30px; 
     padding: 25px;
-    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15); /* Elevated shadow */
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
     transition: box-shadow 0.4s ease, transform 0.4s ease;
     animation: fadeIn 1.2s ease-out, scaleUp 1.2s ease-out;
 }
